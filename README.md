@@ -74,11 +74,11 @@ We evaluated the ST-UNet against classical geometric baselines. Our model mainta
 If you find this work useful for your research, please cite:
 
 ```bibtex
-@article{vadurin2024st-unet,
+@article{vadurin2026st-unet,
   title={Spatio-Temporal Deep Learning for Air Pollution Source Localization from Sparse Sensor Networks},
   author={Vadurin, Kyrylo},
   journal={Official Research Repository},
-  year={2024},
+  year={2026},
   url={https://github.com/KyryloVadurin/ST-UNet-Pollution-Localization}
 }
 ```
